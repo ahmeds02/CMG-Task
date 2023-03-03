@@ -1,6 +1,7 @@
 # CMG-Task
 
 Bash Script for processing the log files and automate the quality control evaluation.
+
 This Bash script reads temperature and humidity data from a file and performs analysis to determine the precision of the readings. The script also includes a Dockerfile for building a container image that runs the script.
 
 Usage
